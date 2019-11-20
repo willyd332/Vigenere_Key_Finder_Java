@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Decrypt_Vigenere:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Decrypt_Vigenere_jar</output-path>
+    <root id="archive" name="Decrypt_Vigenere.jar">
+      <element id="module-output" name="Decrypt_Vigenere" />
+    </root>
+  </artifact>
+</component>
