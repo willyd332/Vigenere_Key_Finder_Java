@@ -12,7 +12,7 @@ public class Decrypt {
         String cipher  = args[0];
         int keyLength = findKeyLength(cipher);
 
-          System.out.println(findKey(keyLength,cipher));
+        System.out.println(findKey(keyLength,cipher));
     }
 
     private static ArrayList<String> everyXthLetter(String cipher, int x, int start){
